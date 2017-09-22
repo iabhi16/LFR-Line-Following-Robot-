@@ -2,7 +2,7 @@
 LFR is a automated guided vehicle whose workings is pretty straight forward. These robots have the capability to detect a black/dark line on a lighter surface depending on the contrast and vice versa. They estimate whether the line underneath them is shifting towards their left/right as they move over them  while advanced Line Follower Robots use invisible magnetic field as their paths.
 
 ## Component Required 
-+ LFRRobot Chassis(1)
++ LFR robot Chassis(1)
 + Wheel(2)
 + Caster Wheel(1)
 + Microcontroller(Arduino Atmega 328P)(1)
@@ -14,4 +14,10 @@ LFR is a automated guided vehicle whose workings is pretty straight forward. The
 
 ## Block Diagram of the Project
 The line follower robot built in this project is divided in to 4 blocks. The following image shows the block diagram for line follower robot.
-<img src="" height="" width="">
+
+<img src="Block-Diagram-768x147.jpg" width="800">
+
+## Circuit Diagram
+Simulation Based Circuit Diagram to show how to connect diffrent component to came up with the finished Product.
+
+<img src="Arduino-Line-Follower-Robot-Circuit.jpg" height="400" width="800">
