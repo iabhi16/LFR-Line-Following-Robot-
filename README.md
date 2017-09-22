@@ -15,9 +15,12 @@ LFR is a automated guided vehicle whose workings is pretty straight forward. The
 ## Block Diagram of the Project
 The line follower robot built in this project is divided in to 4 blocks. The following image shows the block diagram for line follower robot.
 
-<img src="Block-Diagram-768x147.jpg" width="800">
+<img src="LFR Block Diagram.jpg" width="800">
 
 ## Circuit Diagram
 Simulation Based Circuit Diagram to show how to connect diffrent component to came up with the finished Product.
 
-<img src="Arduino-Line-Follower-Robot-Circuit.jpg" height="400" width="800">
+<img src="LFR circuit diagram.jpg" height="400" width="800">
+
+## Code
+## Application
