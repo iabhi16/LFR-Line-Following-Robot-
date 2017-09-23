@@ -23,4 +23,7 @@ Simulation Based Circuit Diagram to show how to connect diffrent component to ca
 <img src="LFR circuit diagram.jpg" height="400" width="800">
 
 ## Code
-## Application
+Code is available in this repo you can download and upload it on the Arduino Atmega 328P Microcontroller.
+
+## Applications
+
