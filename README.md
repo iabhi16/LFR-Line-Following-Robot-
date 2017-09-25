@@ -26,4 +26,5 @@ Simulation Based Circuit Diagram to show how to connect diffrent component to ca
 Code is available in this repo you can download and upload it on the Arduino Atmega 328P Microcontroller.
 
 ## Applications
-
++ This can be used in driver less car system with some added features like obstacle detection.
++ This can also be used in industrial and defense applications.
